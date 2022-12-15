@@ -12,7 +12,6 @@ const getPrice = () => {
     .then((res) => {
       console.log(res.data.data.amount);
       setPrice(res.data.data.amount);
-      updateChartData(res.data.data.amount);
     })
     // .catch is a promise that will run if the API call fails
     .catch((err) => {
