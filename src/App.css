@@ -1,4 +1,4 @@
-Skip to content Search or jump to… Pull requests Issues Codespaces Marketplace Explore @BitBrujo AustinKelsay / pleb-wallet-react Public Code Issues Pull requests Actions Projects Security Insights pleb-wallet-react/src/App.css @AustinKelsay AustinKelsay Built pleb-wallet Latest commit 1b5b903 last month History 1 contributor 109 lines (91 sloc) 1.39 KB body {
+body {
   background-color: #192734;
   font-family: monospace;
 }
@@ -107,5 +107,3 @@ footer p {
     margin-top: 1%;
   }
 }
-
-Footer © 2022 GitHub, Inc. Footer navigation Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About pleb-wallet-react/App.css at master · AustinKelsay/pleb-wallet-react
